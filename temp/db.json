@@ -1,0 +1,39 @@
+{
+    "orders": [
+      {
+        "id": 1,
+        "customer": "Eduardo Mendes de Oliveira",
+        "cpf": "698.744.552-41",
+        "description": "1 Notebook, 2 Smartphone",
+        "status": "canceled"
+      },
+      {
+        "id": 2,
+        "customer": "Geraldo Ricardo Pedro Henrique Fogaça",
+        "cpf": "133.148.553-38",
+        "description": "1 TV 4K",
+        "status": "canceled"
+      },
+      {
+        "id": 3,
+        "customer": "Bento Thales Manuel da Mata",
+        "cpf": "883.355.414-77",
+        "description": "1 PC Gamer",
+        "status": "payment"
+      },
+      {
+        "id": 4,
+        "customer": "Nair Marli Carolina da Silva",
+        "cpf": "528.247.176-02",
+        "description": "1 Impressora",
+        "status": "paid"
+      },
+      {
+        "id": 5,
+        "customer": "Pietra Alice Silva",
+        "cpf": "332.142.351-09",
+        "description": "1 Notebook Gamer",
+        "status": "paid"
+      }
+    ]
+  }
